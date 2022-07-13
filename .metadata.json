@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "featuretoolsR",
+    "oncran": true
+  }
+]
